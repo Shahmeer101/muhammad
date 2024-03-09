@@ -1,0 +1,71 @@
+.addto img {
+  width: 80%;
+  height: 80vh;
+}
+.colse button {
+  margin-right: 1%;
+}
+
+.text-star a {
+  text-decoration: none;
+}
+.fale span {
+  color: #00a5c4;
+}
+.return a {
+  text-decoration: none;
+}
+.return a {
+  text-decoration: none;
+}
+.return {
+  margin-right: 5%;
+  margin-top: 0%;
+}
+
+.tate {
+  text-decoration: none;
+}
+.colo {
+  background-color: #ffd289;
+  padding: 5px;
+}
+.cole {
+  background-color: #003859;
+  padding: 5px;
+}
+.cola {
+  background-color: #00a5c4;
+  padding: 5px;
+}
+
+.wrapper span {
+  border: 1px solid rgb(232 232 232);
+  width: 30%;
+}
+
+.wrapper h6 {
+  margin-right: 5%;
+}
+/* .wrapper {
+  width: 30%;
+  height: 30vh;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5%;
+}
+.wrapper span {
+  text-align: center;
+  font-size: 55px;
+  font-weight: 600;
+  width: 100%;
+  cursor: pointer;
+} */
+/* .wrapper span.num {
+  font-size: 20px;
+  border-right: 2px solid rgba(0, 0, 0, 0.2);
+  border-left: 2px solid rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+} */

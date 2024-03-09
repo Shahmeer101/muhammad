@@ -1,0 +1,9 @@
+#top-sale {
+  .bbb_viewed_image img {
+    transition: transform.5s ease;
+  }
+
+  .bbb_viewed_image img:hover {
+    transform: scale(1.1);
+  }
+}

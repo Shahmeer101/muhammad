@@ -1,0 +1,17 @@
+.wrapper span {
+  border: 1px solid rgb(232 232 232);
+  padding-top: 6px;
+  width: 100%;
+}
+.dad a {
+  color: blue;
+  text-decoration: none;
+  padding-top: 1%;
+}
+
+.price span {
+  text-align: right;
+  /* align-items: right; */
+  font-size: 20;
+  color: red;
+}
